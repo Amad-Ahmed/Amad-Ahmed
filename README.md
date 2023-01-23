@@ -4,4 +4,4 @@
  
 
 <br />
-[Leetcode Stats]:(https://leetcode.card.workers.dev/Amad-Ahmed?theme=unicorn&font=baloo&extension=null)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Amad-Ahmed)](https://github.com/KnlnKS/leetcode-stats)
