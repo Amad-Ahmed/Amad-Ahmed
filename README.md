@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amad</h1>
-<h3 align="center">A passionate App, Web Developer and Cyber-Security enthusiast.</h3>
+<h1 align="center">Hi 👋, I'm Amad Ahmed Siddiqui</h1>
+<h3 align="center">A Passionate App and Web Developer. I am also a Cyber-Security and Machine Learning enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amad-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="amad-ahmed" /> </p>
 
