@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amad Ahmed Siddiqui</h1>
 <h3 align="center">A Software Engineer currently studying Computer Science at SEECS, NUST.</h3>
 
-<p><img align="center" src="https://leetcard.jacoblin.cool/amad-ahmed?theme=unicorn&font=Actor&ext=activity" alt="amad-ahmed" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amad-ahmed&show_icons=true&locale=en&layout=compact" alt="amad-ahmed" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amad-ahmed&show_icons=true&locale=en" alt="amad-ahmed" /></p>
+<p align="center"><img src="https://leetcard.jacoblin.cool/amad-ahmed?theme=unicorn&font=Actor&ext=activity" alt="amad-ahmed" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amad-ahmed&show_icons=true&locale=en&layout=compact" alt="amad-ahmed" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=amad-ahmed&show_icons=true&locale=en" alt="amad-ahmed" /></p>
 
 <br />
 <p align="left"> <a href="https://twitter.com/iamamasiddiqui" target="blank"><img src="https://img.shields.io/twitter/follow/iamamasiddiqui?logo=twitter&style=for-the-badge" alt="iamamasiddiqui" /></a> </p>
 <br />
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamamasiddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamamasiddiqui" height="30" width="40" /></a>
