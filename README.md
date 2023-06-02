@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amad Ahmed Siddiqui</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">A Software Engineer currently studying Computer Science at SEECS, NUST.</h3>
 
 <p><img align="center" src="https://leetcard.jacoblin.cool/amad-ahmed?theme=unicorn&font=Actor&ext=activity" alt="amad-ahmed" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amad-ahmed&show_icons=true&locale=en&layout=compact" alt="amad-ahmed" /></p>
